@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssecrypt",
+        "uuid": 12031918,
+        "checksum": "m2t2bi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
